@@ -1,0 +1,21 @@
+console.log("5 x 1 =" ); console.log(5*1 );
+console.log("5 x 2 =" ); console.log(5*2);
+console.log("5 x 3 =" ); console.log(5*3);
+console.log("5 x 4 =" ); console.log(5*4);
+console.log("5 x 5 =" ); console.log(5*5);
+console.log("5 x 6 =" ); console.log(5*6);
+console.log("5 x 7 =" ); console.log(5*7);
+console.log("5 x 8 =" ); console.log(5*8);
+console.log("5 x 9 =" ); console.log(5*9);
+console.log("5 x 10 =" ); console.log(5*10);
+
+console.log("6 x 1 =" ); console.log(6*1);
+console.log("6 x 2 =" ); console.log(6*2);
+console.log("6 x 3 =" ); console.log(6*3);
+console.log("6 x 4 =" ); console.log(6*4);
+console.log("6 x 5 =" ); console.log(6*5);
+console.log("6 x 6 =" ); console.log(6*6);
+console.log("6 x 7 =" ); console.log(6*7);
+console.log("6 x 8 =" ); console.log(6*8);
+console.log("6 x 9 =" ); console.log(6*9);
+console.log("6 x 10 =" ); console.log(6*10);
